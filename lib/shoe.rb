@@ -19,7 +19,7 @@ BRANDS = []
   end
 
   def brand
-    @brand 
+    @brand
   end
 
 end
