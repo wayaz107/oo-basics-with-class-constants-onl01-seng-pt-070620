@@ -1,6 +1,6 @@
 class Shoe
   attr_accessor :color, :size, :material, :condition
-  
+
 
 BRANDS = []
 
@@ -15,7 +15,7 @@ BRANDS = []
 
   def brand=(brand)
     @brand = brand
-if BRAND != brand 
+if BRAND != brand
   BRAND << brand
   end
 
