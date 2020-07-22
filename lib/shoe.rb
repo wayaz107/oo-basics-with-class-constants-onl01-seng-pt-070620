@@ -10,7 +10,7 @@ BRANDS = []
     if !(BRAND.include? (@brand))
       BRAND << @brand
   end
-end 
+end
 
   def cobble
     self.condition = "new"
